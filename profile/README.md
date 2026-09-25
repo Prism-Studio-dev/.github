@@ -122,7 +122,7 @@ Feel free to:
 - contribute to projects;
 - fork something and build your own version.
 
----a
+---
 
 ## Projects
 
