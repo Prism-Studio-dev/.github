@@ -144,6 +144,6 @@ Check the pinned repositories on our GitHub profile to see what we are currently
 
 <img src="mini-logo.svg" alt="Prism Studio Logo" height="28" valign="middle"> **Prism Studio**
 
-`Kotlin` · `Java` · `Rust` · `Zig` · `Jetpack Compose` · [`Discord`](https://discord.gg/YOUR_INVITE)
+`Kotlin` · `Java` · `Rust` · `Zig` · `Jetpack Compose` · [`Discord`](https://discord.gg/adurdpTcMW)
 
 </div>
