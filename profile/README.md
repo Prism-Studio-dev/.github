@@ -128,7 +128,7 @@ Feel free to:
 
 Join our Discord server to follow development, discuss architecture, or share feedback:
 
-[![Join Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![Join Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adurdpTcMW)
 
 ---
 
