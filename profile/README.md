@@ -18,7 +18,7 @@ from JVM applications to native tools and open-source projects.
 
 <br>
 
-[About](#about) • [What we build](#what-we-build) • [Tech stack](#tech-stack) • [Open source](#open-source)
+[About](#about) • [What we build](#what-we-build) • [Tech stack](#tech-stack) • [Open source](#open-source) • [Discord](https://discord.gg/adurdpTcMW)
 
 </div>
 
@@ -124,6 +124,14 @@ Feel free to:
 
 ---
 
+## Community
+
+Join our Discord server to follow development, discuss architecture, or share feedback:
+
+[![Join Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+
+---
+
 ## Projects
 
 Our repositories contain projects at different stages — from experiments and prototypes to actively developed software.
@@ -134,8 +142,8 @@ Check the pinned repositories on our GitHub profile to see what we are currently
 
 <div align="center">
 
-<img src="mini-logo.svg" alt="Prism Studio Logo" height="28" valign="middle">**Prism Studio**
+<img src="mini-logo.svg" alt="Prism Studio Logo" height="28" valign="middle"> **Prism Studio**
 
-`Kotlin` · `Java` · `Rust` · `Zig` · `Jetpack Compose`
+`Kotlin` · `Java` · `Rust` · `Zig` · `Jetpack Compose` · [`Discord`](https://discord.gg/YOUR_INVITE)
 
 </div>
